@@ -1,7 +1,1 @@
-cd yol/C:\Users\Murat\Desktop\d,
 
-git init
-git add .
-git commit -m "İlk oyun dosyası yüklemesi"
-git remote add origin https://github.com/KULLANICI_ADIN/web-oyunu.git
-git push -u origin master
